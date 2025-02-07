@@ -25,10 +25,10 @@ Feel free to dive in and explore my skills, projects, and all the exciting thing
 
 ## GitHub Stats:
 <a href="https://github.com/Yamil-Serrano">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api?username=Yamil-Serrano&show_icons=true&theme=merko" />
+  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api?username=Yamil-Serrano&show_icons=true&bg_color=transparent" />
 </a>
 <a href="https://github.com/Yamil-Serrano">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamil-Serrano&langs_count=6&layout=donut&theme=merko" />
+  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamil-Serrano&langs_count=6&layout=donut&bg_color=transparent" />
 </a>
 
 ## 💡 My Passion & Focus:
@@ -36,9 +36,5 @@ Feel free to dive in and explore my skills, projects, and all the exciting thing
 I’m deeply passionate about robotics, game design, and development, and I’m always excited to collaborate on projects with organizations at my university. Currently, I’m focused on exploring the complexities of programming languages, memory management, and the potential of integrating machine learning and AI into my projects. My goal is to create innovative solutions that merge hardware and software, and to develop intelligent systems that can have a real-world impact.
 
 I’m always looking for opportunities to collaborate, learn, and push the boundaries of technology with others who share my interests.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamil-Serrano&repo=Language-Processing-Analyzer&theme=merko&show_icons=true)](https://github.com/Yamil-Serrano/Language-Processing-Analyzer)
-
-
 
 
