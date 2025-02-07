@@ -37,6 +37,8 @@ I’m deeply passionate about robotics, game design, and development, and I’m 
 
 I’m always looking for opportunities to collaborate, learn, and push the boundaries of technology with others who share my interests.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yamil-Serrano&repo=Language-Processing-Analyzer&theme=merko&show_icons=true)](https://github.com/Yamil-Serrano/Language-Processing-Analyzer)
+
 
 
 
