@@ -25,10 +25,10 @@ Feel free to dive in and explore my skills, projects, and all the exciting thing
 
 ## GitHub Stats:
 <a href="https://github.com/Yamil-Serrano">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api?username=Yamil-Serrano&show_icons=true&bg_color=transparent" />
+  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api?username=Yamil-Serrano&show_icons=true&theme=github_dark&bg_color=00000000&rank_icon=github" />
 </a>
 <a href="https://github.com/Yamil-Serrano">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamil-Serrano&langs_count=6&layout=donut&bg_color=transparent" />
+  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamil-Serrano&langs_count=6&layout=donut&theme=github_dark&bg_color=00000000" />
 </a>
 
 ## 💡 My Passion & Focus:
