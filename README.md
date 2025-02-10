@@ -16,7 +16,7 @@ Feel free to dive in and explore my skills, projects, and all the exciting thing
 ## ⚙️ Technical Skills:
 - Programming Languages: Python, C, C++, Java, Rust
 - Frameworks: Raylib (Game Dev), OpenFrameWorks
-- Tools: Git, GitHub, VS Code, Fusion 360, Arduino IDE
+- Tools: Git, GitHub, VS Code, Fusion 360, PlatformIO IDE
 
 ## 🌱 Soft Skills:
 - Team collaboration
