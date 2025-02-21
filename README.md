@@ -1,12 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=35&duration=3000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=600&weight=700&lines=Welcome+to+My+GitHub+Profile!" />
-</h1>
+## About Me:
+Hey there! 🎉 Welcome to my GitHub profile, where I showcase my projects and passions.
+I'm Yamil Serrano, a tech enthusiast and aspiring software engineer from the University of Puerto Rico, Mayagüez. This space is my hub for all things programming, electronics, robotics, and a bit of game development. Whether it’s writing code, tinkering with hardware, or creating games, you’ll find it all here! ☕
 
-Hey there! 🎉 You’ve just stumbled upon my GitHub profile repository, where I share a little bit about myself.
+Feel free to explore my skills, projects, and everything I’m working on. Whether you're here to collaborate, learn, or just say hi, I’m excited to connect and build something amazing together.
 
-I'm **Yamil Serrano**, alias Nekyro (some people call me Neo or Neky), a tech enthusiast and aspiring software engineer from the University of Puerto Rico, Mayagüez. This space is a cozy hub for all my passions programming, electronics, robotics, and a bit of game development. Whether it’s coding, tinkering with hardware, or creating cool games, you’ll find it all here! ☕️
-
-Feel free to dive in and explore my skills, projects, and all the exciting things I’m working on. Whether you’re here to collaborate, learn, or just say hi, I’m thrilled to connect and work on something amazing together! Code. Innovate. Impact.🚀
 ## 🔧 Skills:
 - Backend Development
 - Robotics and Hardware Integration
