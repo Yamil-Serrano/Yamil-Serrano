@@ -11,7 +11,7 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 - Electronics Projects
 - 3D Printing
 - Simple modeling in fusion 360
-- Game Development: I’ve made my own games using the Raylib framework, learning the ins and outs of 2D game design and development.
+- Symple Game Development
 
 ## ⚙️ Technical Skills:
 - Programming Languages: Python, C, C++, Java, Rust
