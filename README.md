@@ -17,10 +17,6 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 - Frameworks: Raylib (Game Dev), OpenFrameWorks
 - Tools: Git, GitHub, VS Code, Fusion 360, PlatformIO IDE
 
-## 🌱 Soft Skills:
-- Team collaboration
-- Problem-solving
-- Communication
 
 ## GitHub Stats:
 <a href="https://github.com/Yamil-Serrano">
