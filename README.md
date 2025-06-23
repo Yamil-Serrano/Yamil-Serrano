@@ -7,6 +7,7 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 ## 🔧 Skills:
 - Backend Development
 - Robotics and Hardware Integration
+- Embedded Systems Development
 - Electronics Projects
 - 3D Printing
 - Simple modeling in fusion 360
@@ -15,6 +16,7 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 ## ⚙️ Technical Skills:
 - Programming Languages: Python, C, C++, Java, Rust
 - Frameworks: Raylib (Game Dev), OpenFrameWorks
+- Embedded & Microcontroller Development: Experience working with Arduino IDE, PlatformIO, and Energia IDE. Hands-on with embedded systems.
 - Tools: Git, GitHub, VS Code, Fusion 360, PlatformIO IDE
 
 
