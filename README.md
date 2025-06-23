@@ -11,7 +11,7 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 - Electronics Projects
 - 3D Printing
 - Simple modeling in fusion 360
-- Symple Game Development
+- Simple Game Development
 
 ## ⚙️ Technical Skills:
 - Programming Languages: Python, C, C++, Java, Rust
