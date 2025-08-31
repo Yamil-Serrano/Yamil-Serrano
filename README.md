@@ -21,12 +21,15 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 
 
 ## GitHub Stats:
-<a href="https://github.com/Yamil-Serrano">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api?username=Yamil-Serrano&show_icons=true&theme=github_dark&bg_color=00000000&rank_icon=github" />
-</a>
-<a href="https://github.com/Yamil-Serrano">
-  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamil-Serrano&langs_count=6&layout=donut&theme=github_dark&bg_color=00000000" />
-</a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamil-Serrano&theme=github_dark" height="200" />
+
+<div style="display: flex; gap: 40px; justify-content: center;">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yamil-Serrano&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yamil-Serrano&theme=github_dark" height="200" />
+   
+</div>
 
 ## 💡 My Passion & Focus:
 
