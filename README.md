@@ -4,7 +4,7 @@ I'm Yamil Serrano, a tech enthusiast and aspiring software engineer from the Uni
 
 Feel free to explore my skills, projects, and everything I’m working on. Whether you're here to collaborate, learn, or just say hi, I’m excited to connect and build something amazing together.
 
-## 🔧 Skills:
+## Skills:
 - Backend Development
 - Robotics and Hardware Integration
 - Embedded Systems Development
@@ -13,10 +13,11 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 - Simple modeling in fusion 360
 - Simple Game Development
 
-## ⚙️ Technical Skills:
+## Technical Skills:
 - Programming Languages: Python, C, C++, Java, Rust
 - Frameworks: Raylib (Game Dev), OpenFrameWorks
-- Embedded & Microcontroller Development: Experience working with Arduino IDE, PlatformIO, and Energia IDE. Hands-on with embedded systems.
+- Hardware Design: Circuit design, PCB layout
+- Embedded & Microcontroller Development: Experience working with Arduino IDE, PlatformIO, and Energia IDE.
 - Tools: Git, GitHub, VS Code, Fusion 360, PlatformIO IDE
 
 
@@ -33,7 +34,10 @@ Feel free to explore my skills, projects, and everything I’m working on. Wheth
 
 </div>
 
-## 💡 My Passion & Focus:
+## Digital Logic & Circuit Design
+Check out my digital circuit designs on [CircuitVerse](https://circuitverse.org/users/292592)
+
+## My Passion & Focus:
 
 I’m deeply passionate about robotics, game design, and development, and I’m always excited to collaborate on projects with organizations at my university. Currently, I’m focused on exploring the complexities of programming languages, memory management, and the potential of integrating machine learning and AI into my projects. My goal is to create innovative solutions that merge hardware and software, and to develop intelligent systems that can have a real-world impact.
 
